@@ -1,5 +1,5 @@
 
-// again corrected solution
+// after making me contributor solution
 #include "solution.h"
 
 int solution(int *arr, int N) {
